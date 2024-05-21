@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushi Sahu
-- 👀 I’m interested in Database, Full Stack Web Development, Data Analystics and Baking
-- 🌱 I recently graduated from Seneca College with Computer Programming and Analysis advanced diploma.
+- 👀 I’m interested in Database, Salesforce Platform Development, Data Analytics, and Baking treats!
+- 🌱 I recently graduated from Seneca College with an advanced diploma in Computer Programming and Analysis.
 - 📫 How to reach me on LinkedIn: www.linkedin.com/in/i-u-she
 
 <!---
